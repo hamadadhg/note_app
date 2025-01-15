@@ -1,3 +1,4 @@
+/*
 // GENERATED CODE - DO NOT MODIFY BY HAND
 
 part of 'notes_modal.dart';
@@ -48,3 +49,4 @@ class NotesModalAdapter extends TypeAdapter<NotesModal> {
           runtimeType == other.runtimeType &&
           typeId == other.typeId;
 }
+*/

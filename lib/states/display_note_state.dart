@@ -1,3 +1,4 @@
+/*
 import 'package:notes_app/modals/notes_modal.dart';
 
 class DisplayNoteState {}
@@ -12,3 +13,4 @@ class ThereAreState extends DisplayNoteState {
     required this.notesList,
   });
 }
+*/

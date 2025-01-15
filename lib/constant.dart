@@ -1,3 +1,4 @@
+/*
 import 'package:flutter/material.dart';
 
 Color kGreenColor = const Color(
@@ -27,3 +28,4 @@ List<Color> listOfColors = const [
     0xffA3E4B8,
   ),
 ];
+*/

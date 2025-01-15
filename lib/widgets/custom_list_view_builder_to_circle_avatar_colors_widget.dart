@@ -1,4 +1,4 @@
-import 'dart:developer';
+/*
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:notes_app/constant.dart';
@@ -25,9 +25,6 @@ class _CustomListViewToCircleAvatarWidgetState
       (color) => color == widget.colorIsSelectedInAddNote,
     );
     super.initState();
-    log(
-      'Select Is $selectJustColor',
-    );
   }
 
   @override
@@ -62,3 +59,4 @@ class _CustomListViewToCircleAvatarWidgetState
     );
   }
 }
+*/

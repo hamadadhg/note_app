@@ -1,3 +1,4 @@
+/*
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:notes_app/cubits/displayNotesCubit/display_note_cubit.dart';
@@ -23,3 +24,4 @@ class HomeView extends StatelessWidget {
     );
   }
 }
+*/

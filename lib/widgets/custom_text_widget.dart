@@ -1,3 +1,4 @@
+/*
 import 'package:flutter/material.dart';
 
 class CustomTextWidget extends StatelessWidget {
@@ -23,3 +24,4 @@ class CustomTextWidget extends StatelessWidget {
     );
   }
 }
+*/

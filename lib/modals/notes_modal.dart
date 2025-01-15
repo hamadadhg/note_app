@@ -1,3 +1,4 @@
+/*
 import 'package:hive/hive.dart';
 part 'notes_modal.g.dart';
 
@@ -18,3 +19,4 @@ class NotesModal extends HiveObject {
     required this.color,
   });
 }
+*/

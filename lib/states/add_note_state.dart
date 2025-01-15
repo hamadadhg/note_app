@@ -1,3 +1,4 @@
+/*
 class AddNoteState {}
 
 class InitialState extends AddNoteState {}
@@ -17,3 +18,4 @@ class FailureState extends AddNoteState {
     required this.errorMessage,
   });
 }
+*/

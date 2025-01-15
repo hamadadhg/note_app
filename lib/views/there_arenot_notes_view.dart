@@ -1,3 +1,4 @@
+/*
 import 'package:flutter/material.dart';
 import 'package:notes_app/widgets/custom_app_bar_widget.dart';
 import 'package:notes_app/widgets/custom_text_widget.dart';
@@ -32,3 +33,4 @@ class ThereArenotNotesView extends StatelessWidget {
     );
   }
 }
+*/

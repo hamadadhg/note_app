@@ -1,3 +1,4 @@
+/*
 import 'package:flutter/material.dart';
 import 'package:notes_app/modals/notes_modal.dart';
 import 'package:notes_app/views/edit_notes_view.dart';
@@ -41,3 +42,4 @@ class CustomNotesWidget extends StatelessWidget {
     );
   }
 }
+*/
